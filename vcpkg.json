@@ -1,0 +1,17 @@
+{
+  "dependencies": [
+    "entt",
+    "fmt",
+    "glfw3",
+    "glm",
+    "shaderc",
+    "spdlog",
+    "spirv-reflect",
+    "stb",
+    "tinygltf",
+    "vk-bootstrap",
+    "vulkan-headers",
+    "vulkan-memory-allocator",
+    "tinyobjloader"
+  ]
+}
