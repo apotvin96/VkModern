@@ -4,3 +4,5 @@
 # VkModern
 
 A Modern Setup of a Vulkan Based PBR Renderer Using vcpkg and CMake
+
+Currently running on MacOS (M1) and Windows. Likely Linux as previous builds were developed on it.
