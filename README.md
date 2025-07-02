@@ -1,3 +1,3 @@
 # VkModern
 
-A Modern Setup of a Vulkan Based PBR Renderer Using vcpkg
+A Modern Setup of a Vulkan Based PBR Renderer Using vcpkg and CMake
